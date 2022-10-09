@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+   margin: 0;
+    box-sizing: border-box;
+}
+
+body { 
+ background-image:url(./images/AISSATA.jpg);
+ background-repeat: no-repeat;
+background-size: cover; 
+height: 100vh;
+}
+
+.hello {
+font-size: 30px;
+font-weight: 400;
+color: brown;
+}
+
